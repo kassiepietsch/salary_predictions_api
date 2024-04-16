@@ -11,12 +11,6 @@ CORS(app)
 def home():
     return "<h1>Salary Prediction API</h1><p>BAIS:3300 - Digital Product Development</p><p>Kassie Pietsch & Trevor Bottom</p>"
 
-
-# predict route
-@app.route("/predict", methods=["POST"])
-def predict():
-     return "<h1>Salary Prediction API</h1><p>BAIS:3300 - Digital Product Development</p><p>Trevor Bottom & Kassie Pietsch</p>"
-
 # predict route
 @app.route("/predict", methods=["POST"])
 def predict():
