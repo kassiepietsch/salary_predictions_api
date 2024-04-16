@@ -13,6 +13,6 @@ def home():
 
 
 # predict route
-@app.route("/predict", methods=["GET"])
+@app.route("/predict", methods=["POST"])
 def predict():
     return "<h1>Prediction route is working... </h1>"
