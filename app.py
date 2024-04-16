@@ -13,7 +13,7 @@ def home():
     return "<h1>Salary Prediction API</h1><p>BAIS:3300 - Digital Product Development</p><p>Kassie Pietsch & Trevor Bottom</p>"
 
 # predict route
-@app.route("/predict", methods=["GET"])
+@app.route("/predict", methods=["POST"])
 def predict():
     print("inside predict")
     
