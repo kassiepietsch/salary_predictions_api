@@ -9,7 +9,7 @@ CORS(app)
 # main index page (root route)
 @app.route("/")
 def home():
-    return "<h1>Salary Prediction API</h1><p>BAIS:3300 - Digital Product Development</p><p>Kassie Pietsch</p>"
+    return "<h1>Salary Prediction API</h1><p>BAIS:3300 - Digital Product Development</p><p>Kassie Pietsch & Trevor Bottom</p>"
 
 
 # predict route
