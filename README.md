@@ -1,4 +1,8 @@
 # salary_predictions_api
+
+## Project goals
+
+The goal of this project application was to become familar and proficient in using running an application using flask. The flask project is presented in html form where the model was presented. Below you will find information on how to run the model yourself.
  
 ## To Run This Application
 
@@ -19,3 +23,4 @@ b. To change the port: flask run --port 8080
 c. To listen on all public IP addresses: flask run --host 0.0.0.0 d. To run in debug mode: flask run --debug
 
 Example: flask --app app run --port 8080 --debug 
+
