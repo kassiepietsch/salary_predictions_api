@@ -1,5 +1,10 @@
 # salary_predictions_api
 
+# skills used
+![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-2.0+-green?style=for-the-badge&logo=flask&logoColor=white)
+
+
 ## Project goals
 
 The goal of this project application was to become familar and proficient in using running an application using flask. The flask project is presented in html form where the model was presented. Below you will find information on how to run the model yourself.
